@@ -221,3 +221,6 @@ __marimo__/
 
 # Files
 *.parquet
+
+# Local PostgreSQL data
+/ny_taxi_postgres_data/
